@@ -8,7 +8,7 @@
   <h3>2.建立新的React專案</h3>
     <p>請透過create-react-app 建立新的React專案</p>
     <p>建立專案後請在專案裡面安裝axios</p>
-    <p>請先將將src資料夾裡的檔案清空</p>
+    <p>請先將src資料夾裡的檔案清空</p>
     <p>之後把ReactTestMain資料夾中的資料放進專案當中</p>
     <p>最後在終端打npm start 有看到撈到的資料即算成功</p>
 <h2>如有問題都可在詢問</h2>
